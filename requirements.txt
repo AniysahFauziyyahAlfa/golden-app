@@ -4,6 +4,6 @@ numpy
 matplotlib
 scikit-learn
 xgboost
-skopt
+scikit-optimize
 plotly
 holidays
